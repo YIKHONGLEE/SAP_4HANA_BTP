@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This repository documents the development of a **Sales Management System** designed for **AK Maju Resources**, a Malaysian-based printing and publication company. The system was built as part of the **Enterprise Systems Design and Modeling (SEC3744)** course at **Universiti Teknologi Malaysia (UTM)**.
+This repository documents the development of a **Sales Management System** designed for **AK Maju Resources**, a Malaysian-based printing and publication company. The system was built as part of the **Enterprise Systems Design and Modeling ** project at **Universiti Teknologi Malaysia (UTM)**.
 
 It leverages **SAP S/4HANA**, **SAP Business Technology Platform (SAP BTP)**, and **SAP HANA Cloud** to automate and streamline sales operations such as order processing, quotation generation, delivery tracking, and billing.
 
